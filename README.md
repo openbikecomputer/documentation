@@ -1,1 +1,1 @@
-# documentation
+# OpenBikeComputer documentation
